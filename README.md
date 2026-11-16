@@ -1,3 +1,4 @@
+[![Watch the Architecture Walkthrough on Loom](https://img.shields.io/badge/Watch%20Walkthrough-Loom-2496ED?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/5c55bd3f14fb4390b4c11895537da8b7)
 # Azure Update Manager Lab
 
 **Patch Management & Compliance Reporting · Terraform (Modular) + Azure Update Manager + PowerShell**
