@@ -5,7 +5,6 @@
 
 Builds a complete patch management pipeline from zero: modular Terraform infrastructure, policy-based enrollment, a scheduled maintenance window, on-demand patch assessment, emergency patching, and a compliance validation script that exports machine-readable JSON reports — with before/after evidence from a real run.
 
-📹 **Walkthrough video:** _add your Loom / LinkedIn link here_
 
 | | |
 |---|---|
