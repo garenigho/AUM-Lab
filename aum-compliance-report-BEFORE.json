@@ -1,0 +1,37 @@
+﻿{
+    "GeneratedAt":  "2026-11-15T19:09:04.8503763-05:00",
+    "ResourceGroup":  "rg-aumlab-cus",
+    "AllCompliant":  false,
+    "VMs":  [
+                {
+                    "VMName":  "DC01",
+                    "AssessmentStatus":  "Succeeded",
+                    "CriticalAndSecurityCount":  1,
+                    "OtherPatchCount":  2,
+                    "RebootPending":  false,
+                    "LastAssessmentTime":  "\/Date(1794787581218)\/",
+                    "Compliant":  false,
+                    "Result":  "FAIL"
+                },
+                {
+                    "VMName":  "WS01",
+                    "AssessmentStatus":  "Succeeded",
+                    "CriticalAndSecurityCount":  1,
+                    "OtherPatchCount":  2,
+                    "RebootPending":  false,
+                    "LastAssessmentTime":  "\/Date(1794787588992)\/",
+                    "Compliant":  false,
+                    "Result":  "FAIL"
+                },
+                {
+                    "VMName":  "WS02",
+                    "AssessmentStatus":  "Succeeded",
+                    "CriticalAndSecurityCount":  1,
+                    "OtherPatchCount":  2,
+                    "RebootPending":  false,
+                    "LastAssessmentTime":  "\/Date(1794787593885)\/",
+                    "Compliant":  false,
+                    "Result":  "FAIL"
+                }
+            ]
+}

@@ -1,0 +1,12 @@
+﻿# Real variable values (your IP, settings) - never commit
+*.tfvars
+!terraform.tfvars.example
+
+# Terraform state and plans (plans contain your password)
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform/
+
+# Working report - the BEFORE/AFTER copies ARE committed on purpose
+aum-compliance-report.json
